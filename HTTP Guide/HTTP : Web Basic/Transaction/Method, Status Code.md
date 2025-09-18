@@ -15,7 +15,7 @@
 2. 상태 코드는 클라이언트에게 요청이 성공했는지 아니면 추가 조치가 필요한지 알려주는 세 자리 숫자
 3. 흔히 쓰이는 상태 코드
 <div align="center">
-<img src="https://github.com/user-attachments/assets/e821d916-0aec-433f-9d77-b4ccd18b110d">
+<img src="https://github.com/user-attachments/assets/43372189-ebac-481d-b843-471a1181d32a">
 </div>
 
 4. HTTP는 각 숫자 상태 코드에 텍스트로 된 사유 구절(Reason Phrase)도 함께 보냄
