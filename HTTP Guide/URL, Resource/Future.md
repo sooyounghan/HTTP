@@ -11,7 +11,7 @@
 5. 인터넷 기술 테스크 포스(Internet Engineering Task Force, IETF)는 URN(Uniform Resource Names)라는 새로운 표준 작업 착수
    - 객체가 옮겨지더라도(웹 서버 내 또는 웹 서버 간 모두) 항상 객체를 가리킬 수 있는 이름 제공
 
-6. 지속 통합 자원 지시자(Persistent Uniform Resource Locators, PURL)을 상요하면 URL로 URN의 기능 제공 가능
+6. 지속 통합 자원 지시자(Persistent Uniform Resource Locators, PURL)을 사용하면 URL로 URN의 기능 제공 가능
    - 실제 URL 목록을 관리하고 추적하는 리소스 위치 중개 서버를 두고, 해당 리소스를 우회적으로 제공
 
 7. 클라이언트는 위치 할당자에게 리소스를 가져올 수 있는 영구적인 URL을 요청할 수 있으며, 영구적인 URL은 클라이언트를 리소스의 실제 URL로 연결
