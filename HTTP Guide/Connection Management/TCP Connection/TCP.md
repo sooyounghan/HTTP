@@ -2,7 +2,7 @@
 ### 신뢰할 수 있는 데이터 전송 통로인 TCP
 -----
 1. HTTP 커넥션은 몇몇 사용 규칙을 제외하고 TCP 커넥션에 불과 : TCP 커넥션은 인터넷을 안정적으로 연결
-2. TCP는 HTTP에게 신뢰할 만한 통신 방식을 제공하며, TCP 커넥ㄴ션의 한쪽에 있는 바이트들은 반대쪽으로 순서에 맞게 정확히 전달
+2. TCP는 HTTP에게 신뢰할 만한 통신 방식을 제공하며, TCP 커넥션의 한쪽에 있는 바이트들은 반대쪽으로 순서에 맞게 정확히 전달
 <div align="center">
 <img src="https://github.com/user-attachments/assets/5c48d2d2-3cb6-4301-ad16-086890a8be47">
 </div>
