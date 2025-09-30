@@ -16,7 +16,7 @@
 
 5. 쿠키 Domain 속성
    - 서버는 쿠키를 생성할 때 Set-Cookie 응답 헤더에 Domain 속성을 기술해서 어떤 사이트가 쿠키를 읽을 수 있는지 제어 가능
-   - 예) 다음 HTTP 응답 헤더는 브라우저가 user=mary17이라는 쿠키를 ```.alrtavebargain.com``` 도메인을 가지고 이쓴 모든 사이트에 전달
+   - 예) 다음 HTTP 응답 헤더는 브라우저가 user=mary17이라는 쿠키를 ```.alrtavebargain.com``` 도메인을 가지고 있는 모든 사이트에 전달
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0af1a49b-b8f1-4fbb-9066-cdd17730a2ef">
 </div>
