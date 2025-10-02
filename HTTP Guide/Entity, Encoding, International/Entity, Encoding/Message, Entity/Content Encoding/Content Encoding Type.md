@@ -9,5 +9,5 @@
 <img src="https://github.com/user-attachments/assets/0684ec36-95cb-4f20-975d-28dcd0abebd5">
 </div>
 
-5. gzip, compress, deflate 인코딩은 전송되는 메ㅔ지의 크기를 정보의 손실 없이 줄이기 위한 무손실 압축 알고리즘
+5. gzip, compress, deflate 인코딩은 전송되는 메세지의 크기를 정보의 손실 없이 줄이기 위한 무손실 압축 알고리즘
 6. gzip은 일반적으로 가장 효율적이고 가장 널리 쓰이는 압축 알고리즘
