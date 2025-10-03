@@ -1,7 +1,7 @@
 -----
 ### Charset
 -----
-1. MIME Charset 태그(Content-Type charset 매개변수와 Accept-Charset 헤더에서 스이는)는 문자 집합을 의미하는 것이 아님
+1. MIME Charset 태그(Content-Type charset 매개변수와 Accept-Charset 헤더에서 쓰이는)는 문자 집합을 의미하는 것이 아님
 2. MIME 차셋 값은 데이터 비트를 고유한 문자의 코드로 매핑하는 알고리즘 이름
    - 문자 인코딩 구조와 코딩된 문자집합의 개념을 합친 것
 
