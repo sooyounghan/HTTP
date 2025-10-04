@@ -10,4 +10,4 @@
    - LOCK : 하나 이상의 리소스를 잠금
    - UNLOCK : 기존에 잠겨있는 리소스를 잠금 해제
 
-2. WebDAV가 수정한 HTTP 메서드 DELETE, PUT 그리고 OPTIONS
+2. WebDAV가 수정한 HTTP 메서드 : DELETE, PUT 그리고 OPTIONS
