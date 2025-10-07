@@ -1,6 +1,7 @@
 -----
 ### 미디어 타입 표 (application/*)
 -----
+: 여러 애플리케이션 전용 MIME 미디어 타입 정의
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0c4c0ec0-2cd9-454e-a64e-3ec695ab0301">
 <img src="https://github.com/user-attachments/assets/df5f9c0a-a96d-4336-8014-01c801aa11ce">
