@@ -1,6 +1,7 @@
 -----
 ### 미디어 타입 표 (chemical/*)
 -----
+: Chemical MIME Home Page에서 가져온 것
 <div align="center">
 <img src="https://github.com/user-attachments/assets/aac54697-f742-4770-ab96-60400c711793">
 <img src="https://github.com/user-attachments/assets/ab656881-9f0e-407b-a466-7d1bc8877232">
